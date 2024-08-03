@@ -1,0 +1,2 @@
+C:\Users\Деп\Desktop\My game\2d Platformer\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Деп\Desktop\My game\2d Platformer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
